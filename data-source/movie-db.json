@@ -1,0 +1,29 @@
+{
+  
+  "tickets": [
+    {
+      "id": 1,
+      "mobile": "9898989898",
+      "email": "demo@gmail.com",
+      "seats": 4,
+      "movieId": 1,
+      "paid": 1200
+    },
+    {
+      "email": "define.navin9@gmail.com",
+      "phone": "9829662643",
+      "seat": 1,
+      "price": "300",
+      "totalPrice": "300",
+      "id": 2
+    },
+    {
+      "email": "test@gmail.com",
+      "phone": "1212121121",
+      "seat": 1,
+      "price": "370",
+      "totalPrice": "370",
+      "id": 3
+    }
+  ]
+}
